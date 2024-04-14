@@ -93,5 +93,4 @@ public class HammingTest {
 
         new Hamming("ATA", "AGTG");
     }
-
 }
